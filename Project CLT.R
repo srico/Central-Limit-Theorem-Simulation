@@ -4,8 +4,6 @@
 # We demonstrate that the sample mean is an unbiased estimator 
 # of the population mean by increasing sample size 
 
-
-
 mu <- 54
 sigma <- 3
 
